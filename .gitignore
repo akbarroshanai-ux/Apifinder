@@ -1,0 +1,11 @@
+# Local secrets — never commit API keys
+my_keys.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.spec.bak
+
+# PyInstaller
+dist/
+build/

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "https://cleanapis.com/v1",
+    "category": "Custom",
+    "url": "https://cleanapis.com/v1"
+  },
+  {
+    "name": "https://api.aimlapi.com/v1/",
+    "category": "Custom",
+    "url": "https://api.aimlapi.com/v1/"
+  },
+  {
+    "name": "https://api.free.ai/v1/",
+    "category": "Custom",
+    "url": "https://api.free.ai/v1/"
+  },
+  {
+    "name": "https://thejevai.com/v1/",
+    "category": "Custom",
+    "url": "https://thejevai.com/v1/"
+  },
+  {
+    "name": "https://api.xpiki.com/v1",
+    "category": "Custom",
+    "url": "https://api.xpiki.com/v1"
+  }
+]
